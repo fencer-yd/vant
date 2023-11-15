@@ -224,12 +224,6 @@ export default {
     'delete',
     'font',
     // without corresponding outline icon
-    'wechat',
-    'wechat-pay',
-    'wechat-moments',
-    'qq',
-    'alipay',
-    'weibo',
     'photograph',
     'youzan-shield',
     'umbrella-circle',
