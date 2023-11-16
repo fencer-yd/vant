@@ -219,9 +219,6 @@ module.exports = {
     'delete',
     'font',
     // without corresponding outline icon
-    'wechat',
-    'wechat-pay',
-    'alipay',
     'photograph',
     'youzan-shield',
     'umbrella-circle',
@@ -239,7 +236,6 @@ module.exports = {
     'play',
     'pause',
     'stop',
-    'weapp-nav',
     'ascending',
     'descending',
     'bars',
